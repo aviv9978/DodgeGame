@@ -1,0 +1,13 @@
+good: left: #124#, top: #554#
+baddie0: left: #269#, top: #272#, visbaility: #0#
+baddie1: left: #184#, top: #375#, visbaility: #0#
+baddie2: left: #233#, top: #275#visbaility: #-1#
+baddie3: left: #252#, top: #336#, visbaility: #0#
+baddie4: left: #278#, top: #236#visbaility: #-1#
+baddie5: left: #297#, top: #452#, visbaility: #0#
+baddie6: left: #279#, top: #441#visbaility: #-1#
+baddie7: left: #275#, top: #250#visbaility: #-1#
+baddie8: left: #249#, top: #456#visbaility: #-1#
+baddie9: left: #191#, top: #322#visbaility: #-1#
+Wins: #2# Loses: #2#
+Baddies Counter: #4# ContinueFromLose: #0#

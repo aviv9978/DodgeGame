@@ -1,0 +1,46 @@
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\bin\Debug\Fonts\robus.otf
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\bin\Debug\Fonts\halo.ttf
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\bin\Debug\NewGame.exe.config
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\bin\Debug\NewGame.exe
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\bin\Debug\NewGame.pdb
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.csproj.AssemblyReference.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\gameself.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\Lobby.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\MainWindow.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\App.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame_Content.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame_MarkupCompile.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame_MarkupCompile.lref
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\gameself.baml
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\Lobby.baml
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\MainWindow.baml
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.g.resources
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.Properties.Resources.resources
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.csproj.GenerateResource.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.exe
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\project one- DODGE\DodgeGame\NewGame\obj\Debug\NewGame.pdb
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\bin\Debug\Fonts\robus.otf
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\bin\Debug\Fonts\halo.ttf
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\bin\Debug\NewGame.exe.config
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\bin\Debug\NewGame.exe
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\bin\Debug\NewGame.pdb
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.csproj.AssemblyReference.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\gameself.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\Lobby.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\MainWindow.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\App.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame_Content.g.cs
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame_MarkupCompile.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame_MarkupCompile.lref
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\gameself.baml
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\Lobby.baml
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\MainWindow.baml
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.g.resources
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.Properties.Resources.resources
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.csproj.GenerateResource.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.exe
+C:\Users\Aviv\OneDrive\שולחן העבודה\סלע קורס תוכנה\Big Projects\Project 1 - Dodge game\DodgeGame\NewGame\obj\Debug\NewGame.pdb
